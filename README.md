@@ -1,1 +1,1 @@
-# cartrackerApp
+Car Tracker is a web application which continuously monitors status of different cars (like Location, fuel, speed, engine rpm etc.) of a rental company and it regularly generates alerts based on the readings and plot vehicle's history of specific signal over a user selected time range.
